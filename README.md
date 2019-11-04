@@ -4,3 +4,4 @@ Now with a rule for signed commits
 Test for unsigned
 Including rules for admins
 another one
+test
